@@ -1,16 +1,54 @@
-# React + Vite
+# 🌷 Bloom Haven — Flower Shop Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Live Demo:** 👉 [Bloom Haven 🌸](https://coder-irfan.github.io/bloom-haven)
 
-Currently, two official plugins are available:
+Bloom Haven is a modern, elegant, and fully responsive **flower shop website** designed with a clean user experience in mind.  
+It brings beauty and simplicity together — letting users explore, fall in love, and shop for their favorite blooms with ease.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🌸 **Elegant Design:** Soft colors, smooth animations, and aesthetic layout.  
+- 📱 **Fully Responsive:** Works perfectly on desktop, tablet, and mobile screens.  
+- 🛒 **Product Showcase:** Beautifully arranged flower collections and shop sections.  
+- 💬 **Interactive Toast Messages:** Professional notifications built with `react-hot-toast`.  
+- ⚡ **Smooth User Experience:** Fast loading, minimal clutter, and pleasant transitions.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧩 Technologies Used
+
+| Technology | Purpose |
+|-------------|----------|
+| **React.js** | Frontend library for dynamic UI |
+| **Vite** | Super-fast development and build tool |
+| **Tailwind CSS** | Styling with utility-first approach |
+| **React Hot Toast** | Elegant toast notifications |
+| **GitHub Pages** | Free deployment and hosting |
+
+---
+
+## 🖼️ Preview
+
+![Bloom Haven Preview](https://github.com/coder-irfan/bloom-haven/assets/your-image-id)  
+> *(You can replace this image with your actual website screenshot)*
+
+---
+
+## 🚀 Getting Started
+
+Clone and run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/coder-irfan/bloom-haven.git
+
+# Go to the project directory
+cd bloom-haven
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
